@@ -33,20 +33,28 @@
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=telesz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=telesz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
 
+<br clear="left"/>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-50%25-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ 50%">
+  <img src="https://img.shields.io/badge/Python-50%25-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python 50%">
 </p>
