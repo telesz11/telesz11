@@ -7,7 +7,7 @@
 <p align="left">
   <a href="https://www.youtube.com/@TeleszByte" target="_blank">
     <img 
-      src="https://i.postimg.cc/VsbkqfwY/5e1f4106-f7da-4975-96cf-4894b84db1a1.png" 
+      src="https://img.shields.io/badge/YouTube-TeleszByte-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@TeleszByte)" 
       alt="Inscreva-se" 
       title="Inscreva-se no meu canal" 
       width="200"
