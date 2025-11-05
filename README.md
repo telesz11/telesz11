@@ -2,18 +2,19 @@
 
 **`Desenvolvedor junior`**
 
-🕶️ Explorando o lado oculto da rede —  estudante de Cybersecurity.
+🕶️ Explorando o lado oculto da rede — estudante de Cybersecurity.
 
 <p align="left">
-    <a href="https://www.youtube.com/@TeleszByte">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="[![5e1f4106-f7da-4975-96cf-4894b84db1a1.png](https://i.postimg.cc/VsbkqfwY/5e1f4106-f7da-4975-96cf-4894b84db1a1.png)](https://postimg.cc/vDbyMdDj)"
-        />
-    </a>
-
+  <a href="https://www.youtube.com/@TeleszByte" target="_blank">
+    <img 
+      src="https://i.postimg.cc/VsbkqfwY/5e1f4106-f7da-4975-96cf-4894b84db1a1.png" 
+      alt="Inscreva-se" 
+      title="Inscreva-se no meu canal" 
+      width="200"
+    />
+  </a>
 </p>
+
 
 ---
 
