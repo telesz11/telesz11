@@ -2,7 +2,7 @@
 
 **`Desenvolvedor junior`**
 
-🕶️ Explorando o lado oculto da rede — estudante de Cybersecurity.
+🕶️ Cybersecurity.
 
 <p align="left">
   <a href="https://www.youtube.com/@TeleszByte" target="_blank">
